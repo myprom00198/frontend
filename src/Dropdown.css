@@ -1,0 +1,16 @@
+.form-dropdown{
+    position: absolute;
+    top: 91%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
+label{
+    font-size: 20px;
+    margin: 5px;
+}
+
+select{
+    font-size: 17px;
+    padding: 5px;
+}

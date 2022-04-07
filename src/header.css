@@ -1,0 +1,40 @@
+.Logo {
+    background-image: url(../src/asset/temple.png);
+}
+
+.header{
+  background-color: #F09B2A;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+}
+.header img{
+  width: 80px;
+  float: left;
+}
+.header h3{
+  color: #fff;
+  float: left;
+  font-size: 35px;
+  padding: 10px;
+  margin-left: 20px;
+}
+.header ul{
+  list-style-type: none;
+  padding: 20px;
+}
+.header li {
+  float: right;
+
+}
+.header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+.header li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
